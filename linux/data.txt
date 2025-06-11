@@ -1,0 +1,167 @@
+Linux.org presented one of the most detailed important events in the history of the Linux operating system development
+
+
+1983
+September    Richard M. Stallman announces the GNU Project, an attempt at creating a completely free operating system.
+
+
+1984
+January    Work begins on the GNU operating system
+
+
+1985
+October    Free Software Foundation established as a non-profit organization to promote the development of Free Software. Sponsors the GNU Project.
+
+
+1987
+January    Computer science professor Andrew Tannenbaum publishes the textbook Operating Systems: Design and Implementation which includes a copy of a teaching version of Unix called Minix.
+December    Larry Wall releases version 1.0 of Perl
+
+
+1989
+February    Version 1 of the GNU General Public License (GPL) is released.
+
+
+1991
+June    Version 2 of the GNU General Public License (GPL) is released.
+August    Linus Torvalds announces that he’s working on an operating system similar to Minix.
+October    Richard Stallman expresses interest in having the Free Software Foundation distribute a GNU system with the Linux kernel.
+September    Version 0.01 of Torvald’s project is made available via ftp.funet.fi. Ari Lemmke, the systems administrator, gives the directory the name Linux.
+December    Robert Blum posts the first Linux FAQ
+
+
+1992
+January    alt.os.linux newsgroup created.
+Minix creator Andrew Tannenbaum claims “Linux is obsolete” in a posting to comp.os.minix and starts a public discussion on the merits of Linux in which Linus Torvalds participates.
+February    What could be described as the first Linux “distribution”, called MCC Interim Linux is released by the University of Manchester, England.
+March    Version 0.95 of the Linux kernel released. First version to be able to support X-Window.
+September    A Linux distribution called Softlanding Linux System (SLS) is released. Early users include Patrick Volkerding and Ian Murdock.
+November    Software und System Entwicklung GmbH (SuSE) founded in Nuremberg, Germany. Distributes a German version of SLS with corresponding manuals.
+
+
+1993
+March    Matt Welsh issues the Linux Documentation Project Manifesto. He states that the goal of the LDP is to “collaborate in taking care of all of the issues of Linux documentation”.
+August    Ian Murdock creates the Debian distribution.
+August    Version 1.0 of Slackware released by Patrick Volkerding. It is based on the SLS distribution.
+
+
+1994
+March    Linux kernel version 1.0 released.
+First issue of Linux Journal published
+April    Version 1.0 of SuSE Linux released. It is based on SLS.
+May    Michael McLagan registers the linux.org domain.
+June    Jon ‘maddog’ Hall founds Linux International
+Rasmus Lerdorf releases the first version of the PHP scripting language.
+September    William R. Della Croce, Jr. of Boston, Massachusetts registers the Linux trademark. He begins, shortly thereafter, to ask for compensation for the use of the word Linux.
+October    Marc Ewing releases the first version of Red Hat Linux.
+Linux distributor Caldera founded by Ray Noorda of Novell and Ransom Love.
+
+
+1995
+March Bob Young partners with Marc Ewing and forms Red Hat Software.
+Apache web server project started as a series of patches to the NCSA HTTPd server (a patchy server).
+
+
+1996
+March    Linux kernel version 2.0 released.
+May    Linus Torvalds suggests that a “slightly overweight penguin” would be the best mascot for Linux. He recommends Larry Ewing’s “Tux” penguin images.
+September    Linus Torvalds along with Linux Journal, Yggdrasil Computing, Inc., Linux International Work Group Solutions and with the help of Digital Equipment Corporation and Red Hat, file suit against William R. Della Croce, Jr.     to re-assign the Linux trademark to Linus Torvalds. The firm of Davis & Schroeder handles the case on an almost pro-bono basis.
+October    Kool Desktop Environment (KDE) project announced.
+
+
+1997
+February Linus Torvalds moves to California and begins working for Transmeta, a microprocessor manufacturer.
+May Eric S. Raymond gives a paper entitled The Cathedral and the Bazaar at Linux Kongress. It outlines the principles of what would become known as the “open source” method.
+August The Linux trademark dispute between William Della Croce and Linus Torvalds is settled, with Della Croce re-assigning the trademark to Torvalds.
+Miguel de Icaza starts the GNOME project.
+
+
+1998
+February Bruce Perens and Eric S. Raymond found the Open Source Initiative, an organization to promote the use of open source software and establish guidelines for open source licenses.
+May Google search engine appears using servers running Linux.
+July Sam Ockman founds Penguin Computing. It is the first hardware company to produce Linux-only systems.
+Version 1.0 of the K Desktop Environment (KDE) released.
+Gael Duval creates Mandrake Linux.
+August     Forbes magazine devotes its cover story to Linus Torvalds.
+November  Eric S. Raymond releases internal Microsoft memos, known as the “Halloween Documents”, that show that the company is formulating plans to deal with the increasing use of Linux.
+December Corel releases Word Perfect 8 for Linux as a free download.
+
+
+1999
+January Linux kernel version 2.2 released.
+March The Burlington Coat Factory announces that it is using Linux in its stores.
+GNOME 1.0 desktop released.
+May Dell pre-installs Red Hat Linux on some servers and workstations.
+August Red Hat has its initial public offering (IPO) and becomes a publicly traded company.
+VA Linux systems stock reaches $320 US after starting its initial public offering (IPO) at $30. Ending the day at $239.25, it is the largest first-day gain in history to date.
+Matthew Szulik replaces Bob Young as CEO of Red Hat.
+Corel releases Linux distribution.
+
+
+2000
+March A Netcraft survey reveals that Apache webserver powers 60% of the World Wide Web.
+Linux distributor Caldera Systems Inc has its initial public offering (IPO).
+May Microsoft CEO Steve Ballmer calls Linux “a cancer that attaches itself in an intellectual property sense to everything it touches.” in an interview with the Chicago Sun-Times.
+August Caldera Systems acquires the Santa Cruz Operation’s (SCO) Unix server division.
+September Trolltech releases the QT libraries, used by KDE, under the GPL.
+October Microsoft buys a large stake in Corel.
+IBM CEO Louis Gerstner announces that the company will invest $1 billion in Linux development.
+
+
+2001
+January Linux kernel version 2.4 released.
+Corel announces that it is selling its Linux unit.
+May Linus Torvalds publishes his autobiography entitled Just for Fun with the help of journalist David Diamond.
+August MP3.com founder Michael Robertson starts development on Lindows, a Debian-based distribution which promises to be a Linux distribution that can be used by anybody.
+October Amazon.com reveals in a SEC filing that switching to Linux has saved them over $20 million.
+November 18 year-old Brazilian developer Marcelo Tosatti becomes the maintainer of the 2.4 kernel
+Microsoft files a trademark infringement suit against Lindows, claiming the similarity to the name Windows “confuses the public”.
+
+
+2002
+January Credit Suisse First Boston fined $100 million for fraud in connection with the VA Linux IPO.
+February Linus Torvalds begins using BitMover’s BitKeeper to manage kernel development. Bitkeeper is proprietary software and many, including Richard Stallman, criticize the decision.
+May Linux distributors Caldera, SuSE, Turbolinux and Conectiva sign an agreement to form UnitedLinux and jointly develop a Linux distribution for servers.
+June Ransom Love is ousted as CEO of Caldera and is replaced by Darl McBride.
+July Walmart begins selling Microtel PCs through their online store with Lindows and Mandrake Linux pre-installed
+Version 1.0 of the free sound codec Ogg Vorbis is released.
+August Caldera announces that they are changing their name to The SCO Group and are going to concentrate on Unix development
+Free office suite OpenOffice.org 1.0 is released.
+Shares of VA Linux stock reach an history low $0.64 US. Having been the highest climber in IPO history, VA Linux becomes the poster child for the dot-com bust.
+
+
+2003
+January Maureen O’Gara of LinuxGram posts a story that SCO is planning on suing Linux vendors for using proprietary Unix intellectual property. The SCO Controversy begins.(see separate SCO timeline)
+May The city of Munich, Germany announces that it’s switching 14,000 PCs from Windows to Linux.
+June La Junta de Extremadura (Spain) announces that 80,000 computers in their schools are running a distribution called GNU/LinEx.
+Linus Torvalds announces that he’s leaving Transmeta to work full time on the kernel for the Open Source Development Labs. The Torvalds family moves to Oregon.
+July Red Hat announces that they will no longer sell boxed sets of their Linux distribution for retail customers. Instead, they will distribute Linux to end users via a development distribution called Fedora Core.
+August Novell buys Linux desktop software company Ximian.
+November Novell acquires German Linux distributor SuSE.
+December Linux kernel version 2.6 is released.
+
+
+2004
+
+
+July Microsoft settles its trademark dispute with Lindows. Lindows changes its name to Linspire and assigns Microsoft the rights to the Lindows name. Microsoft pays $20 million and grants Linspire licenses to use certain Windows media     libraries.
+October First version of Ubuntu Linux released.
+During the Superbowl, IBM runs a commercial promoting Linux featuring Muhammed Ali and other celebrities
+
+
+2005
+April Larry McVoy, creator of BitKeeper, discontinues support for the free BitKeeper client after complaining about attempts to reverse engineer it. Linus Torvalds announces that he will no longer use BitKeeper for kernel development.         Torvalds starts work on a replacement he calls Git.
+December In strongly worded emails to the GNOME mailing list, Linus Torvalds reveals that he prefers KDE to GNOME, starting a small controversy. “Gnome seems to be developed by interface nazis…”, claims Torvalds.
+
+
+2006
+January Linus Torvalds reveals that he doesn’t like the anti-DRM provisions in the draft for version 3 of the GNU General Public License and as it stands, he won’t convert the Linux kernel to it.
+April Oracle CEO Larry Ellison announces that the company may develop their own Linux distribution. “…it makes a lot of sense for us to look at distributing and supporting Linux.”, states Ellison.
+May Nicolas Negroponte displays the first working prototype of a $100 laptop computer running Linux and designed for children in the third world. Bill Gates ridicules the project.
+November Novell and Microsoft sign a controversial agreement in which Novell agrees to work on SUSE Linux/Windows interoperability while Microsoft pledges not to sue Novell’s customers for possible patent infringement. The         agreement is poorly received by the Linux-user community. It also prompts a re-write of the upcoming version 3 of the GNU General Public License in order to insert clauses to prohibit distribution of GPL software under such         patent agreements.
+
+
+2007
+May Dell announces that it will pre-load Ubuntu Linux on selected desktop and laptop models of their computers.
+Microsoft general counsel Brad Smith states in a Fortune magazine interview that his company believes that Linux and related projects infringe on over 230 Microsoft patents. There are fears that a patent war between Microsoft     and the Free Software/Open Source developers. might break out.
+June Linux distributors Xandros and Linspire sign patent agreements with Microsoft similar to the pact previously signed between Novell and Microsoft. Ubuntu Linux maintainer Mark Shuttleworth and Mandriva CEO FranÃ§ois     Bancilhon publicly rule out making such agreements. It is also revealed that Red Hat had been negotiating a pact with Microsoft though finally no agreement was reached.

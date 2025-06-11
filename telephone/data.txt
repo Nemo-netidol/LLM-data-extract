@@ -1,0 +1,56 @@
+History of the Telephone
+The Telephone: A Brief History
+By Jason Morris
+
+During the 1870's, two well known inventors both independently designed devices that could transmit sound along electrical cables. Those inventors were Alexander Graham Bell and Elisha Gray. Both devices were registered at the patent office within hours of each other. There followed a bitter legal battle over the invention of the telephone, which Bell subsequently won.
+The telegraph and telephone are very similar in concept, and it was through Bell's attempts to improve the telegraph that he found success with the telephone.
+The telegraph had been a highly successful communication system for about 30 years before Bell began experimenting. The main problem with the telegraph was that it used Morse code, and was limited to sending and receiving one message at a time. Bell had a good understanding of the nature of sound and music. This enabled him to perceive the possibility of transmitting more than one message along the same wire at one time. Bell's idea was not new, others before him had envisaged a multiple telegraph. Bell offered his own solution, the "Harmonic Telegraph". This was based on the principle that musical notes could be sent simultaneously down the same wire if those notes differed in pitch.
+By the latter part of 1874 Bell's experiment had progressed enough for him to inform close family members about the possibility of a multiple telegraph. Bell's future father-in-law, attorney Gardiner Green Hubbard saw the opportunity to break the monopoly exerted by the Western Union Telegraph Company. He gave Bell the financial backing required for him to carry on his work developing the multiple telegraph. However, Bell failed to mention that he and his accomplice, another brilliant young electrician Thomas Watson, were developing an idea that occurred to him during the summer. This idea was to create a device that could transmit the human voice electrically.
+Bell and Watson continued to work on the harmonic telegraph at the insistence of Hubbard and a few other financial backers. During March 1875 Bell met with a man called Joseph Henry without the knowledge of Hubbard. Joseph Henry was the respected director of the Smithsonian Institution. He listened closely to Bell's ideas and offered words of encouragement. Both Bell and Watson were spurred on by Henry's opinions and continued their work with even greater enthusiasm and determination. By June 1875 they realized their goal of creating a device that could transmit speech electrically would soon be reality. Their experiments had proven different tones would vary the strength of an electrical current in a wire.
+Now all they had to do was build a device with a suitable membrane capable of turning those tones into varying electronic currents and a receiver to reproduce the variations and turn them back into audible format at the other end. In early June, Bell discovered that while working on his harmonic telegraph, he could hear a sound over the wire. It was the sound of a twanging clock spring. It was on March 10th, 1876 that Bell was to finally realize the success and communications potential of his new device. The possibilities of being able to talk down an electrical wire far outweighed those of a modified telegraph system, which was essentially based on just dots and dashes.
+According to Bell's notebook entry for that date, he describes his most successful experiment using his new piece of equipment, the telephone. Bell spoke to his assistant Watson, who was in the next room, through the instrument and said "Mr Watson, come here, I want to speak to you."
+Alexander Graham Bell was born on March 3,1847 in Edinburgh, Scotland. His family were leading authorities in elocution and speech correction. He was groomed and educated to follow a career in the same specialty. By the age of just 29 in 1876 he had invented and patented the telephone. His thorough knowledge of sound and acoustics helped immensely during the development of his telephone and gave him the edge over others working on similar projects at that time. Bell was an intellectual of a quality rarely found since his death. He was a man always striving for success and searching for new ideas to nurture and develop.
+The Telephone - Important Dates
+
+1874 - Principal of the telephone was uncovered.
+1876 - Alexander Graham Bell invents the telephone, beating Elisha Gray by a matter of hours.
+1877 - The very first permanent outdoor telephone wire was completed. It stretched a distance of just three miles. This was closely followed in the U.S. by the world's first commercial telephone service.
+1878 - The workable exchange was developed, which enabled calls to be switched between subscribers rather than having direct lines.
+1879 - Subscribers began to be designated by numbers and not their names.
+1880's - Long distance service expanded throughout this period using metallic circuits.
+1888 - Common battery system developed by Hammond V. Hayes, allows one central battery to power all telephones on an exchange, rather than relying on each unit's own battery.
+1891 - First automatic dialing system invented by a Kansas City undertaker. He believed that crooked operators were sending his potential customers elsewhere. It was his aim to get rid of the operators altogether.
+1900 - First coin operated telephone installed in Hartford, Connecticut.
+1904 - "French Phone" developed by the Bell Company. This had the transmitter and receiver in a simple handset.
+1911 - American Telephone and Telegraph (AT&T) acquire the Western Union Telegraph Company in a hostile takeover. They purchased stocks in the company covertly and the two eventually merged.
+1918 - It was estimated that approximately ten million Bell system telephones were in service throughout the U.S.
+1921 - The switching of large numbers of calls was made possible through the use of phantom circuits. This allowed three conversations to take place on two pairs of wires.
+1927 - First transatlantic service from New York to London became operational. The signal was transmitted by radio waves.
+1936 - Research into electronic telephone exchanges began and was eventually perfected in the 1960's with the electronic switching system (SES).
+1946 - Worlds first commercial mobile phone service put into operation. It could link moving vehicles to a telephone network via radio waves.
+1947 - Microwave radio technology used for the first time for long distance phone calls.
+1947 - The transistor was invented at Bell laboratories.
+1955 - Saw the beginning of the laying of transatlantic telephone cables.
+1962 - The world's first international communications satellite, Telstar was launched.
+1980's - The development of fiber optic cables during this decade, offered the potential to carry much larger volumes of calls than satellite or microwaves.
+1980's, 1990's, to present - huge advances in micro electronic technology over the last two decades have enabled the development of cellular (mobile) phones to advance at a truly astonishing rate. A cellular (mobile) phone has its own central transmitter allowing it to receive seamless transmissions as it enters and exits a cell.
+
+Alexander Graham Bell
+Edinburgh, Scotland; March 1847
+Alexander Graham Bell is most well known for inventing the telephone. He came to the U.S as a teacher of the deaf, and conceived the idea of "electronic speech" while visiting his hearing-impaired mother in Canada. This led him to invent the microphone and later the "electrical speech machine" -- his name for the first telephone.
+Bell was born in Edinburgh, Scotland on March 3, 1847. He enrolled in the University of London to study anatomy and physiology, but his college time was cut short when his family moved to Canada in 1870. His parents had lost two children to tuberculosis, and they insisted that the best way to save their last child was to leave England.
+When he was eleven, Bell invented a machine that could clean wheat. He later said that if he had understood electricity at all, he would have been too discouraged to invent the telephone. Everyone else "knew" it was impossible to send voice signals over a wire.
+While trying to perfect a method for carrying multiple messages on a single wire, he heard the sound of a plucked spring along 60 feet of wire in a Boston electrical shop. Thomas A. Watson, one of Bell's assistants, was trying to reactivate a telegraph transmitter. Hearing the sound, Bell believed that he could solve the problem of sending a human voice over a wire. He figured out how to transmit a simple current first, and received a patent for that invention on March 7, 1876. Five days later, he transmitted actual speech. Sitting in one room, he spoke into the phone to his assistant in another room, saying the now famous words: "Mr. Watson, come here. I need you." The telephone patent is one of the most valuable patents ever issued.
+Bell had other inventions as well -- his own home had a precursor to modern day air conditioning, he contributed to aviation technology, and his last patent, at the age of 75, was for the fastest hydrofoil yet invented.
+Bell was committed to the advancement of science and technology. As such he took over the presidency of a small, almost unheard-of, scientific society in 1898: the National Geographic Society. Bell and his son-in-law, Gilbert Grosvenor, took the society's dry journal and added beautiful photographs and interesting writing -- turning National Geographic into one of the world's best-known magazines. He also is one of the founders of Science magazine.
+Bell died on August 2, 1922. On the day of his burial, all telephone service in the US was stopped for one minute in his honor.
+Article Source:http://www.pbs.org/transistor/album1/addlbios/bellag.html
+Additional Information
+
+Early History of the Telephone
+The Telephone Operator
+What was said in the first mobile telephone call?
+Guglielmo Macroni
+History of Fiberoptics
+History of the Telegraph
+
