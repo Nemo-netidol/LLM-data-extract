@@ -5,10 +5,10 @@ from bs4 import BeautifulSoup
 import requests
 
 load_dotenv()
-api_key = os.getenv("API_KEY")
-client = OpenAI(api_key=api_key)
+API_KEY = os.getenv("API_KEY")
+client = OpenAI(api_key=API_KEY)
 
-def extract_information(text: str):
+def extract_information(text: str, topic: str):
 
     completion = client.chat.completions.create(
         model="gpt-4o-mini",
@@ -25,4 +25,17 @@ def extract_information(text: str):
     )
 
     result = completion.choices[0].message.content
-    return result
+
+    folder_path = f'./{topic}'
+
+    if not os.path.exists(folder_path):
+        os.mkdir(folder_path)
+
+    with open(f"{folder_path}/data.txt", "w") as f:
+        f.write(text)
+
+    if not os.path.exists(folder_path):
+        os.mkdir(folder_path)
+
+    with open(f"{folder_path}/extract-information.txt", "w") as f:
+        f.write(result)

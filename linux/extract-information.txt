@@ -1,0 +1,89 @@
+### Timeline of Key Events in Linux Development
+
+**1983**
+- September: Richard Stallman announces the GNU Project.
+
+**1984**
+- January: Work begins on the GNU operating system.
+
+**1985**
+- October: Free Software Foundation is established to promote the GNU Project.
+
+**1987**
+- January: Andrew Tannenbaum publishes *Operating Systems: Design and Implementation*, featuring Minix.
+- December: Larry Wall releases Perl version 1.0.
+
+**1989**
+- February: Version 1 of the GNU General Public License (GPL) is released.
+
+**1991**
+- June: Version 2 of GPL released.
+- August: Linus Torvalds announces his operating system project.
+- September: Version 0.01 of the Linux kernel is released.
+- December: The first Linux FAQ is posted.
+
+**1992**
+- January: alt.os.linux newsgroup created.
+- February: MCC Interim Linux, the first Linux distribution, is released.
+- March: Kernel version 0.95 released with X-Window support.
+- September: Softlanding Linux System (SLS) is released.
+
+**1993**
+- March: Linux Documentation Project Manifesto is issued.
+- August: Debian distribution is created by Ian Murdock.
+- August: Slackware 1.0 is released.
+
+**1994**
+- March: Linux Kernel version 1.0 is released.
+- October: The first version of Red Hat Linux is released.
+
+**1995**
+- March: Apache web server project initiated.
+
+**1996**
+- March: Linux kernel version 2.0 released.
+- September: Trademark dispute regarding "Linux" arises.
+
+**1997**
+- February: Linus Torvalds moves to California for work.
+- May: Eric Raymond publishes *The Cathedral and the Bazaar*.
+
+**1998**
+- February: Open Source Initiative is founded.
+- May: Google launches using Linux servers.
+- August: Forbes features Linus Torvalds on the cover.
+
+**1999**
+- January: Linux kernel version 2.2 released.
+- August: Red Hat goes public.
+
+**2000**
+- March: Netcraft survey reveals that Apache powers 60% of the web.
+- September: Microsoft critiques Linux in an interview.
+
+**2001**
+- January: Linux kernel version 2.4 released.
+- November: Microsoft files a lawsuit against Lindows.
+
+**2002**
+- January: Credit Suisse fined for fraud related to VA Linux IPO.
+- August: Caldera changes its name to The SCO Group.
+
+**2003**
+- January: SCO controversy begins with intentions to sue Linux vendors.
+- December: Linux kernel version 2.6 released.
+
+**2004**
+- October: First version of Ubuntu Linux released.
+
+**2005**
+- April: Linus Torvalds begins developing Git as a replacement for BitKeeper.
+
+**2006**
+- May: Prototype of a $100 laptop running Linux is displayed by Nicolas Negroponte.
+
+**2007**
+- May: Dell announces pre-loading of Ubuntu on computers.
+- June: Linux distributors sign patent agreements with Microsoft. 
+
+This timeline highlights significant developments, releases, and controversies that have influenced the evolution of the Linux operating system.

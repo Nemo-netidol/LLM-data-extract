@@ -13,9 +13,5 @@ list = soup.find("ol")
 
 text = list.get_text()
 
-with open("./telephone/data.txt", "w") as f:
-    f.write(text)
+extract_information(text)
 
-with open("./telephone/extract-information.txt", "w") as f:
-    summary = extract_information(text)
-    f.write(summary)
